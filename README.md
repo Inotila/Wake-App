@@ -15,7 +15,8 @@ The app is optimized for all screens and is desginded with a user first approach
 
 1. Backup Alarm: A backup alarm is triggered if the user doesn’t wake up after snoozes or doesn’t interact with their phone after a certain time.
 2. The app tracks sleep patterns and provides users with tips on how to improve their sleep.
-4. Morning Briefing: After the alarm is turned off, the app automatically reads out a morning briefing that includes the weather,events, news..         5. Custom Sounds: Users can create their own alarm sounds, either by recording their own voice or selecting parts of their favorite songs.
+4. Morning Briefing: After the alarm is turned off, the app automatically reads out a morning briefing that includes the weather,events, news..
+5. Custom Sounds: Users can create their own alarm sounds, either by recording their own voice or selecting parts of their favorite songs.
 6. Wake-Up Challenges: Users must complete a mini-game or puzzle or skaking the phone  to turn off the alarm.
 7. Wake-Up Buddy: If the user hits snooze too many times, an automated alert is sent to a chosen contact, to ensure the user wakes up on time.
 8. 
