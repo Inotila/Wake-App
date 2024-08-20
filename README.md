@@ -1,7 +1,7 @@
 # Wake-App
 A prototype for the ultimate alarm clock
 
-Fimga prototype link: [Prototype](https://www.figma.com/proto/8ZbeLwlJX8LyZoYOdgcaRd/Untitled?node-id=0-1&t=vBi699nwctF2df7l-1)
+Fimga prototype link: [Prototype](https://www.figma.com/proto/hdgYY8vsarBvqi55389lfM/wake-app?node-id=0-1&t=NX1K11QCXQQo662y-1)
 
 **August, 2024**
 
@@ -35,7 +35,7 @@ The app is optimized for all screens and is desginded with a user first approach
 
 ### Wireframes
  Low-fi protoype on figma:
-[Wireframe Prototype](https://www.figma.com/design/8ZbeLwlJX8LyZoYOdgcaRd/Wake-app?node-id=0-1&m=dev&t=vBi699nwctF2df7l-1)
+[Wireframe Prototype](https://www.figma.com/design/hdgYY8vsarBvqi55389lfM/wake-app?node-id=0-1&m=dev&t=NX1K11QCXQQo662y-1)
 
 ## Credits/Reference 
 This work is the original work of Youssef Bouallala, Kaisar, and Inotila Opoeli Nghaamwa.
