@@ -13,29 +13,48 @@ The app is optimized for all screens and is desginded with a user first approach
 
 ## Potential features (before starting)
 
-1. Backup Alarm: A backup alarm is triggered if the user doesn’t wake up after snoozes or doesn’t interact with their phone after a certain time.
-2. The app tracks sleep patterns and provides users with tips on how to improve their sleep.
-4. Morning Briefing: After the alarm is turned off, the app automatically reads out a morning briefing that includes the weather,events, news..
-5. Custom Sounds: Users can create their own alarm sounds, either by recording their own voice or selecting parts of their favorite songs.
-6. Wake-Up Challenges: Users must complete a mini-game or puzzle or skaking the phone  to turn off the alarm.
-7. Wake-Up Buddy: If the user hits snooze too many times, an automated alert is sent to a chosen contact, to ensure the user wakes up on time.
-8. 
-9. 
-10. 
+1. Easy to navigate UI
+2. Crud functionality for alarms
+4. Ranking functionality of alarms
+5. disable snooze button
+6. Save button
+7. Auto-off functionality
+8. Digital display for time and day
+9. Schedule alarms for fututre dates
+10. Update time zone
+11. Auto volume increase if snooze is activated
+12. Stop alarm button
+13. Nav bar
+14. Passcode to deactive alarm
+15. Home button
 
 ## Actual Features (end product)
+1. Easy to navigate UI
+2. Crud functionality for alarms
+4. Ranking functionality of alarms
+5. disable snooze button
+6. Save button
+7. Passcode to deactive alarm
+8. Digital display for time and day
+9. Stop alarm button
+10. Home button
 
 ## Future Features
 
 ## Testing
+We test the prototype and found that everything is working to a level acceptable to do demo for collugues and conduct user research to make improvement for 
+future versions.
  
 ### User test
+Will be doen on next itteration.
 
 ## Wireframes and mock-ups
+hi-fi wireframes on figma:
+[Wireframe](https://www.figma.com/design/hdgYY8vsarBvqi55389lfM/wake-app?node-id=0-1&m=dev&t=tbFWoiUFjlHnyPXQ-1)
 
 ### Wireframes
- Low-fi protoype on figma:
-[Wireframe Prototype](https://www.figma.com/design/hdgYY8vsarBvqi55389lfM/wake-app?node-id=0-1&m=dev&t=NX1K11QCXQQo662y-1)
+ hi-fi protoype on figma:
+[Prototype](https://www.figma.com/proto/hdgYY8vsarBvqi55389lfM/wake-app?node-id=0-1&t=tbFWoiUFjlHnyPXQ-1)
 
 ## Credits/Reference 
 This work is the original work of Youssef Bouallala, Kaisar, and Inotila Opoeli Nghaamwa.
