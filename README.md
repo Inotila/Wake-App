@@ -1,15 +1,16 @@
-# Wake-App
-A prototype for the ultimate alarm clock
-
-Fimga prototype link: [Prototype](https://www.figma.com/proto/hdgYY8vsarBvqi55389lfM/wake-app?node-id=0-1&t=NX1K11QCXQQo662y-1)
-
 **August, 2024**
 
+# Wake-App
+
 ## About Wake app
+Wake app is the ultimate alarm clock app - developed by a startup with the with a focus to assit user in waking up on time.
 
 ## Value 
-### Intutive and minimal design
-The app is optimized for all screens and is desginded with a user first approach
+Wake app offer user an easy to user alarm clock. It has builtin functionality that makes it difficult for users to snooze their alarms,
+and potentially miss their appointments. The app is desginded with pseudo a user first approach in the sense of funtionality,because it overides the users ability to snooze their alarm among other features. 
+However, the user was still the lead prorilty how given the problem of "how migh we help user wake up on time", certain functionality had to be be made less accessible, namely the snooze option. We also added
+feature such as the OPT sleep time alarm, where the app calculates how much time the user will need to get enough sleep and automatically sets a abed time alarm to ensure that acutallt get enough sleep so that
+they do not suffer from fatigue in when it is time to wake. This prototype still needs a lot more improvements, but is at at level where we can at least beign user testing while for the next itteration of developement.
 
 ## Potential features (before starting)
 
@@ -57,10 +58,10 @@ hi-fi wireframes on figma:
 [Prototype](https://www.figma.com/proto/hdgYY8vsarBvqi55389lfM/wake-app?node-id=0-1&t=tbFWoiUFjlHnyPXQ-1)
 
 ## Credits/Reference 
-This work is the original work of Youssef Bouallala, Kaisar, and Inotila Opoeli Nghaamwa.
+This work is the original work of Youssef Bouallala, Kaisar, and Inotila Nghaamwa.
 
 ### Media
-All images used are the property of Youssef Bouallala and Inotila Opoeli Nghaamwa, and Fimga's assets.
+All images used are the property of Youssef Bouallala and Inotila Nghaamwa, and Fimga's assets.
 
 ### Content
 
