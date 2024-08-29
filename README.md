@@ -44,8 +44,8 @@ they do not suffer from fatigue in when it is time to wake. This prototype still
 ## Future Features
 
 ## Testing
-We test the prototype and found that everything is working to a level acceptable to do demo for collugues and conduct user research to make improvement for 
-future versions.
+We tested the prototype and found that everything is working to a level acceptable to do demo for collugues to research and make improvements for 
+future versions. By conducting user tests.
  
 ### User test
 Will be doen on next itteration.
@@ -62,9 +62,9 @@ hi-fi wireframes on figma:
 This work is the original work of Youssef Bouallala, Kaisar, Oleg, and Inotila Nghaamwa.
 
 ### Media
-All images used are the property of Youssef Bouallala and Inotila Nghaamwa, and Fimga's assets.
+All images used are the property of Youssef Bouallala, Kaisar, Oleg, and Inotila Nghaamwa, and Fimga's assets.
 
 ### Content
 
-Content - by Youssef Bouallala and Inotila Opoeli Nghaamwa
-Text-Written by Youssef Bouallala and Inotila Opoeli Nghaamwa
+Content - by Youssef Bouallala, Kaisar, Oleg, and Inotila Nghaamwa
+Text-Written by Youssef Bouallala, Kaisar, Oleg, and Inotila Nghaamwa
