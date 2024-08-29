@@ -6,11 +6,11 @@
 Wake app is the ultimate alarm clock app - developed by a startup with the with a focus to assit user in waking up on time.
 
 ## Value 
-Wake app offer user an easy to user alarm clock. It has builtin functionality that makes it difficult for users to snooze their alarms,
+Wake app offer user an easy to user alarm clock. It was designed using a  psuedo doouble diamond agile approach of discovery,define, develop and deliver.It has builtin functionality that makes it difficult for users to snooze their alarms,
 and potentially miss their appointments. The app is desginded with pseudo a user first approach in the sense of funtionality,because it overides the users ability to snooze their alarm among other features. 
 However, the user was still the lead prorilty how given the problem of "how migh we help user wake up on time", certain functionality had to be be made less accessible, namely the snooze option. We also added
 feature such as the OPT sleep time alarm, where the app calculates how much time the user will need to get enough sleep and automatically sets a abed time alarm to ensure that acutallt get enough sleep so that
-they do not suffer from fatigue in when it is time to wake. This prototype still needs a lot more improvements, but is at at level where we can at least beign user testing while for the next itteration of developement.
+they do not suffer from fatigue in when it is time to wake. This prototype still needs a lot more improvements, but is at at level where we can at least beign user testing while waiting for the next itteration of developement.
 
 ## Potential features (before starting)
 
