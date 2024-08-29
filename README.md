@@ -39,6 +39,7 @@ they do not suffer from fatigue in when it is time to wake. This prototype still
 8. Digital display for time and day
 9. Stop alarm button
 10. Home button
+11. weather widget
 
 ## Future Features
 
@@ -58,7 +59,7 @@ hi-fi wireframes on figma:
 [Prototype](https://www.figma.com/proto/hdgYY8vsarBvqi55389lfM/wake-app?node-id=0-1&t=tbFWoiUFjlHnyPXQ-1)
 
 ## Credits/Reference 
-This work is the original work of Youssef Bouallala, Kaisar, and Inotila Nghaamwa.
+This work is the original work of Youssef Bouallala, Kaisar, Oleg, and Inotila Nghaamwa.
 
 ### Media
 All images used are the property of Youssef Bouallala and Inotila Nghaamwa, and Fimga's assets.
