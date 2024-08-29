@@ -69,7 +69,7 @@ hi-fi wireframes on figma:
 [Prototype](https://www.figma.com/proto/hdgYY8vsarBvqi55389lfM/wake-app?node-id=163-601&t=n1onq0iNUStL6nfZ-1)
 
 ## Credits/Reference 
-This work is the original work of Youssef Bouallala, Kaisar, Oleg, and Inotila Nghaamwa.
+This work is the original work of Youssef  Bouallala, Kaisar, Oleg, and Inotila Nghaamwa.
 
 ### Media
 All images used are the property of Youssef Bouallala, Kaisar, Oleg, and Inotila Nghaamwa, and Fimga's assets.
