@@ -58,7 +58,7 @@ Scrum doc:
 [Google doc](https://docs.google.com/document/d/14uiBuHs-5xhonghQvsiBY-ZoVjbrYTccbYoSoATUItA/edit?usp=sharing)
 
 Presentation slides:
-[Slides]([https://docs.google.com/document/d/14uiBuHs-5xhonghQvsiBY-ZoVjbrYTccbYoSoATUItA/edit?usp=sharing](https://onedrive.live.com/edit?id=7DACD187D09CB9B6!sf2762f5ae71947be86ff7246d56bd480&resid=7DACD187D09CB9B6!sf2762f5ae71947be86ff7246d56bd480&cid=7dacd187d09cb9b6&ithint=file%2Cpptx&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy83ZGFjZDE4N2QwOWNiOWI2L0VWb3ZkdklaNTc1SGh2OXlSdFZyMUlBQk9fMlBHdmM4RTFnc05mVU9xYjNvSmc_ZT1WY1Ruc3U&migratedtospo=true&wdo=2))
+[Slides](https://docs.google.com/document/d/14uiBuHs-5xhonghQvsiBY-ZoVjbrYTccbYoSoATUItA/edit?usp=sharing](https://onedrive.live.com/edit?id=7DACD187D09CB9B6!sf2762f5ae71947be86ff7246d56bd480&resid=7DACD187D09CB9B6!sf2762f5ae71947be86ff7246d56bd480&cid=7dacd187d09cb9b6&ithint=file%2Cpptx&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy83ZGFjZDE4N2QwOWNiOWI2L0VWb3ZkdklaNTc1SGh2OXlSdFZyMUlBQk9fMlBHdmM4RTFnc05mVU9xYjNvSmc_ZT1WY1Ruc3U&migratedtospo=true&wdo=2))
 
 ### Wireframes
 
